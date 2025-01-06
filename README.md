@@ -1,5 +1,6 @@
 
-![Uploading cryptix-all-in-one.jpg…]()
+![cryptix-all-in-one](https://github.com/user-attachments/assets/9b4e4733-8c74-419d-b831-73a13fe54848)
+
 
 
 
