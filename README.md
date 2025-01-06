@@ -17,3 +17,6 @@ This software utilizes pre-built executable applications, which can be replaced 
 
 ## Usage License
 The software is free to use, provided it is solely for the Cryptix Network. The developer is not responsible for any issues or damages arising from its usage.
+
+## Discord
+Join Discord: [Cryptix Discord](https://discord.gg/SxXCXHFFeA)
