@@ -8,6 +8,8 @@
 
 This software utilizes pre-built executable applications, which can be replaced (self-built) if desired. The Node uses the Rusty Cryptix version, while the Wallet uses the Web Wallet. The Miner supports both GPU and CPU. All modules can be started individually.
 
+##There is only a Windows64 Version now
+
 ## Normal Version Includes:
 - Rusty Cryptix Node
 - Web Wallet
