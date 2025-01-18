@@ -27,4 +27,5 @@ This software utilizes pre-built executable applications, which can be replaced 
 The software is free to use, provided it is solely for the Cryptix Network. The developer is not responsible for any issues or damages arising from its usage.
 
 ## Discord
-Join Discord: [Cryptix Discord](https://discord.gg/SxXCXHFFeA)
+
+Join our discord server using the following link: [https://discord.cryptix-network.org/](https://discord.cryptix-network.org/)
