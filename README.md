@@ -10,6 +10,8 @@ This software utilizes pre-built executable applications, which can be replaced 
 
 ##There is only a Windows64 Version now
 
+https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTVjMzQzOWM6MTczNzk0NTMyNg==
+
 ## Normal Version Includes:
 - Rusty Cryptix Node
 - Web Wallet
