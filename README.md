@@ -13,12 +13,12 @@ This software utilizes pre-built executable applications, which can be replaced 
 https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTVjMzQzOWM6MTczNzk0NTMyNg==
 
 ## Normal Version Includes:
-- Rusty Cryptix Node
+-  Cryptix Node
 - Web Wallet
 - CPU & GPU Miner
 
 ## DEV Version Includes:
-- Rusty Cryptix Node
+- Cryptix Node
 - Web Wallet
 - CPU & GPU Miner
 - Wallet Daemon (cryptixd)
