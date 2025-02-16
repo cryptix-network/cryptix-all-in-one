@@ -16,6 +16,7 @@ https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTV
 -  Cryptix Node
 - Web Wallet
 - CPU & GPU Miner
+- Cryptix TX AI 
 
 ## DEV Version Includes:
 - Cryptix Node
@@ -24,6 +25,8 @@ https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTV
 - Wallet Daemon (cryptixd)
 - Wallet CLI (Console)
 - Stratum Bridge
+- Cryptix TX AI 
+- CryptixPay Commerce (NFC / REST API)
 
 ## Usage License
 The software is free to use, provided it is solely for the Cryptix Network. The developer is not responsible for any issues or damages arising from its usage.
