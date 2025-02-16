@@ -12,6 +12,8 @@ This software utilizes pre-built executable applications, which can be replaced 
 
 https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTVjMzQzOWM6MTczNzk0NTMyNg==
 
+https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AAE370AD28044E34/results
+
 ## Normal Version Includes:
 -  Cryptix Node
 - Web Wallet
