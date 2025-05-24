@@ -15,15 +15,16 @@ https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTV
 https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AAE370AD28044E34/results
 
 ## Normal Version Includes:
--  Cryptix Node
-- Web Wallet
+- Cryptix Node
+- Web Wallet + self hosted Wallet    
 - CPU & GPU Miner
-- Cryptix TX AI 
+- Cryptix Liquity Bot
 
 ## DEV Version Includes:
 - Cryptix Node
-- Web Wallet
+- Web Wallet + self hosted Wallet    
 - CPU & GPU Miner
+- Cryptix Liquity Bot
 - Wallet Daemon (cryptixd)
 - Wallet CLI (Console)
 - Stratum Bridge
