@@ -16,7 +16,7 @@ https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AA
 
 ## Normal Version Includes:
 - Dashboard
-- Cryptix Node
+- Cryptix Node (rust + go)
 - Web Wallet + self hosted Wallet    
 - CPU & GPU Miner
 - Cryptix Liquity Bot
@@ -25,7 +25,7 @@ https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AA
 
 ## DEV Version Includes:
 - Dashboard
-- Cryptix Node
+- Cryptix Node  (rust + go)
 - Web Wallet + self hosted Wallet    
 - CPU & GPU Miner
 - Cryptix Liquity Bot
