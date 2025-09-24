@@ -15,12 +15,16 @@ https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTV
 https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AAE370AD28044E34/results
 
 ## Normal Version Includes:
+- Dashboard
 - Cryptix Node
 - Web Wallet + self hosted Wallet    
 - CPU & GPU Miner
 - Cryptix Liquity Bot
+- Cryptix Fusion
+- Cryptix Memberarea
 
 ## DEV Version Includes:
+- Dashboard
 - Cryptix Node
 - Web Wallet + self hosted Wallet    
 - CPU & GPU Miner
@@ -30,6 +34,8 @@ https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AA
 - Stratum Bridge
 - Cryptix TX AI 
 - CryptixPay Commerce (NFC / REST API)
+- Cryptix Fusion
+- Cryptix Memberarea
 
 ## Usage License
 The software is free to use, provided it is solely for the Cryptix Network. The developer is not responsible for any issues or damages arising from its usage.
