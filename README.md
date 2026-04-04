@@ -1,6 +1,4 @@
-
-![cryptix-all-in-one](https://github.com/user-attachments/assets/9b4e4733-8c74-419d-b831-73a13fe54848)
-
+<img width="1275" height="717" alt="all-in-one-3" src="https://github.com/user-attachments/assets/d72731ce-f4c1-45d4-8406-f5d0a89f2834" />
 
 
 
@@ -13,15 +11,6 @@ This software utilizes pre-built executable applications, which can be replaced 
 https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTVjMzQzOWM6MTczNzk0NTMyNg==
 
 https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AAE370AD28044E34/results
-
-## Normal Version Includes:
-- Dashboard
-- Cryptix Node (rust + go)
-- Web Wallet + self hosted Wallet    
-- CPU & GPU Miner
-- Cryptix Liquity Bot
-- Cryptix Fusion
-- Cryptix Memberarea
 
 ## DEV Version Includes:
 - Dashboard
