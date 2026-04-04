@@ -12,7 +12,7 @@ https://www.virustotal.com/gui/file-analysis/MDI2MWRhYTMyY2ExNjY2OTEwN2Y3OWRjNTV
 
 https://opentip.kaspersky.com/ACC76ED2EC9A2699E9D5D53435845A02FC3AF233392ED596AAE370AD28044E34/results
 
-## DEV Version Includes:
+## Version Includes:
 - Dashboard
 - Cryptix Node  (rust + go)
 - Web Wallet + self hosted Wallet    
